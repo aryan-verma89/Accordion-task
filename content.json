@@ -1,0 +1,29 @@
+{
+    "faqs": [
+      {
+        "question": "What services does Ship Global offer?",
+        "answer": "Ship Global provides international shipping and logistics solutions, including air freight, sea freight, and express courier services. We ensure your goods are delivered safely and on time, anywhere in the world."
+      },
+      {
+        "question": "How can I track my shipment?",
+        "answer": "You can track your shipment using our online tracking tool on the Ship Global website. Simply enter your tracking number, and you'll get real-time updates on the status of your shipment."
+      },
+      {
+        "question": "What are the shipping rates?",
+        "answer": "Shipping rates depend on various factors including the destination, weight, and type of service chosen. You can get a quote by using our rate calculator on the Ship Global website or contacting our customer service."
+      },
+      {
+        "question": "What is the estimated delivery time?",
+        "answer": "Delivery times vary based on the shipping method and destination. For specific delivery estimates, please refer to our shipping times guide or contact our support team for detailed information."
+      },
+      {
+        "question": "Can I change my delivery address?",
+        "answer": "Yes, you can change your delivery address before the shipment is dispatched. Please contact our customer service team as soon as possible to update your address details."
+      },
+      {
+        "question": "What should I do if my shipment is delayed?",
+        "answer": "If your shipment is delayed, please use our tracking tool to get the latest update. If the delay persists or you need further assistance, contact our customer support team for help."
+      }
+    ]
+  }
+  
